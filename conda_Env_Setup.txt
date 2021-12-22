@@ -1,5 +1,3 @@
 conda create --name AA
 Conda activate AA
-Conda install -c Conda-forge jupyter
-conda install -c conda-forge pandas 
-conda install -c conda-forge geopandas
+Conda install -c conda-forge jupyter pandas geopandas geoplot
