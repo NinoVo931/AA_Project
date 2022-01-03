@@ -1,6 +1,6 @@
-/boston_2017.csv
-/boston_2017_cleaned_trips.csv
+/data/boston_2017.csv
+/data/boston_2017_cleaned_trips.csv
 /splitted_hours.csv
 /.DS_Store
 /.conda_Env_Setup.txt
-/weather_2017_cleaned.csv
+/data/weather_2017_cleaned.csv
