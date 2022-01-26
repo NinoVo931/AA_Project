@@ -5,8 +5,13 @@
 /.conda_Env_Setup.txt
 /data/weather_2017_cleaned.csv
 <<<<<<< HEAD
+<<<<<<< HEAD
 /boston_2017.csv
 /boston_2017_cleaned_trips.csv
 =======
 *.csv
 >>>>>>> Prediction
+=======
+*.csv
+
+>>>>>>> ae42b9179dcf263f31220f3995e6f164f64d339d
